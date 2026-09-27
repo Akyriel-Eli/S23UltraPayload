@@ -25,23 +25,23 @@
       "flavor": "kernelsu-next",
       "requiresFreshP0Session": true,
       "exploit": {
-        "url": "https://raw.githubusercontent.com/soumarcelino/Root-My-Galaxy-SM-S918B/main/app/src/main/assets/cve-2026-43499-app-afzh3.so",
+        "url": "https://raw.githubusercontent.com/Akyriel-Eli/S23UltraPayload/main/artifacts/dm3q-S918BXXSAFZH3/cve-2026-43499-app-afzh3.so",
         "size": 140848,
         "sha256": "ff99f535c7b010bf854dfe5fc88a3908745638cd435ac900ac37f3607a0d9611"
       },
       "kernelsu": {
-        "url": "https://raw.githubusercontent.com/soumarcelino/Root-My-Galaxy-SM-S918B/main/app/src/main/assets/ksud-next-v3.4.0-afzh3",
+        "url": "https://raw.githubusercontent.com/Akyriel-Eli/S23UltraPayload/main/kernelsu/ksud-next-v3.4.0-afzh3",
         "size": 4290936,
         "sha256": "ddb381156ab70de940c7f539ca74c3359770531b07b0c140e0b60f067600ce0c",
         "version": "3.4.0"
       },
       "helper": {
-        "url": "https://raw.githubusercontent.com/soumarcelino/Root-My-Galaxy-SM-S918B/main/app/src/main/assets/libcve43499root-afzh3.so",
+        "url": "https://raw.githubusercontent.com/Akyriel-Eli/S23UltraPayload/main/artifacts/dm3q-S918BXXSAFZH3/libcve43499root-afzh3.so",
         "size": 26560,
         "sha256": "ed436f77ad30296e773c906cfaddf1539d3f18bf45cb74b8c353c9ebd435bb1b"
       },
       "launcher": {
-        "url": "https://raw.githubusercontent.com/soumarcelino/Root-My-Galaxy-SM-S918B/main/app/src/main/assets/stability-launcher-afzh3",
+        "url": "https://raw.githubusercontent.com/Akyriel-Eli/S23UltraPayload/main/artifacts/dm3q-S918BXXSAFZH3/stability-launcher-afzh3",
         "size": 17760,
         "sha256": "6b191e40d4029b40e43314144f36296d94f5068a6cb5d98eb95632953d742855"
       }
@@ -70,18 +70,18 @@
       "flavor": "kernelsu-next",
       "requiresFreshP0Session": true,
       "exploit": {
-        "url": "https://raw.githubusercontent.com/soumarcelino/Root-My-Galaxy-SM-S918B/main/app/src/main/assets/cve-2026-43499-app-afzg1.so",
+        "url": "https://raw.githubusercontent.com/Akyriel-Eli/S23UltraPayload/main/artifacts/dm3q-S918BXXSAFZG1/cve-2026-43499-app-afzg1.so",
         "size": 131072,
         "sha256": "9837d252b7c8faa933d26b66602905492b7e6cdb317b3459efd2ff5dea5582e5"
       },
       "kernelsu": {
-        "url": "https://raw.githubusercontent.com/soumarcelino/Root-My-Galaxy-SM-S918B/main/app/src/main/assets/ksud-f731u-kdp",
+        "url": "https://raw.githubusercontent.com/Akyriel-Eli/S23UltraPayload/main/kernelsu/ksud-f731u-kdp",
         "size": 3852248,
         "sha256": "5826043a9f661930ba62810aed58327632a051fb224c10f1a4e54b350e018ef6",
         "version": "3.3.0"
       },
       "helper": {
-        "url": "https://raw.githubusercontent.com/soumarcelino/Root-My-Galaxy-SM-S918B/main/app/src/main/assets/libcve43499root-afzg1.so",
+        "url": "https://raw.githubusercontent.com/Akyriel-Eli/S23UltraPayload/main/artifacts/dm3q-S918BXXSAFZG1/libcve43499root-afzg1.so",
         "size": 24840,
         "sha256": "1f721d0a9a7ba80cebde5faab32fa56feee4ba12f1e282170b8bbc6af5663999"
       }
@@ -109,59 +109,20 @@
       ],
       "requiresFreshP0Session": true,
       "exploit": {
-        "url": "https://raw.githubusercontent.com/soumarcelino/Root-My-Galaxy-SM-S918B/main/app/src/main/assets/cve-2026-43499-app-afzf5.so",
+        "url": "https://raw.githubusercontent.com/Akyriel-Eli/S23UltraPayload/main/artifacts/dm3q-S918BXXSAFZF5/cve-2026-43499-app-afzf5.so",
         "size": 131072,
         "sha256": "9837d252b7c8faa933d26b66602905492b7e6cdb317b3459efd2ff5dea5582e5"
       },
       "kernelsu": {
-        "url": "https://raw.githubusercontent.com/soumarcelino/Root-My-Galaxy-SM-S918B/main/app/src/main/assets/ksud-f731u-kdp-afzf5",
+        "url": "https://raw.githubusercontent.com/Akyriel-Eli/S23UltraPayload/main/kernelsu/ksud-f731u-kdp-afzf5",
         "size": 6756208,
         "sha256": "11329c52adf28130d75290bd095fb6831c0682f85817534a531c773933aefe8e",
         "version": "3.3.0"
       },
       "helper": {
-        "url": "https://raw.githubusercontent.com/soumarcelino/Root-My-Galaxy-SM-S918B/main/app/src/main/assets/libcve43499root-afzf5.so",
+        "url": "https://raw.githubusercontent.com/Akyriel-Eli/S23UltraPayload/main/artifacts/dm3q-S918BXXSAFZF5/libcve43499root-afzf5.so",
         "size": 23640,
         "sha256": "43a867dc4546263ea540cc8a1d1a6e7834004ae3d6e95fbecaae25c2591aa7e6"
-      }
-    },
-    {
-      "payloadId": "dm3q-S918BXXUAZZHL-ksunext",
-      "displayName": "Galaxy S23 Ultra SM-S918B | Kernel 5.15.197 (S918BXXUAZZHL) | KernelSU Next",
-      "models": [
-        "SM-S918B"
-      ],
-      "kernelVersions": [
-        "5.15.197"
-      ],
-      "buildDisplays": [
-        "CP2A.260605.016.S918BXXUAZZHL"
-      ],
-      "fingerprints": [
-        "samsung/dm3qxxx/dm3q:17/CP2A.260605.016/S918BXXUAZZHL:user/release-keys"
-      ],
-      "kernelReleases": [
-        "5.15.197-android13-8-34343818-abS918BXXUAZZHL"
-      ],
-      "kernelVersionInfos": [
-        "#1 SMP PREEMPT Fri Aug 28 02:33:56 UTC 2026"
-      ],
-      "flavor": "kernelsu-next",
-      "requiresFreshP0Session": true,
-      "exploit": {
-        "url": "https://raw.githubusercontent.com/soumarcelino/Root-My-Galaxy-SM-S918B/main/app/src/main/assets/cve-2026-43499-app-zzhl.so",
-        "size": 129992,
-        "sha256": "001a13abc84ae963b884eadcd3d919c22a030d3b5c512bdb8113f2ee4c39cf1d"
-      },
-      "kernelsu": {
-        "url": "https://raw.githubusercontent.com/soumarcelino/Root-My-Galaxy-SM-S918B/main/app/src/main/assets/ksud-f731u-kdp",
-        "size": 3852248,
-        "sha256": "5826043a9f661930ba62810aed58327632a051fb224c10f1a4e54b350e018ef6"
-      },
-      "helper": {
-        "url": "https://raw.githubusercontent.com/soumarcelino/Root-My-Galaxy-SM-S918B/main/app/src/main/assets/cve-2026-43499-root-zzhl",
-        "size": 25848,
-        "sha256": "eb2678570acd4e207aaa7d6c6bf3f0eab1d42341af403698e3ed70aeb3e0f651"
       }
     }
   ]
