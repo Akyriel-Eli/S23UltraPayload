@@ -71,8 +71,8 @@
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/Akyriel-Eli/S23UltraPayload/main/artifacts/dm3q-S918BXXSAFZG1/cve-2026-43499-app-afzg1.so",
-        "size": 131072,
-        "sha256": "9837d252b7c8faa933d26b66602905492b7e6cdb317b3459efd2ff5dea5582e5"
+        "size": 107328,
+        "sha256": "cae034ed965af9a9579725334ce7c0112dcddac72ed430c9771db722da2b19dc"
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/Akyriel-Eli/S23UltraPayload/main/kernelsu/ksud-f731u-kdp",
@@ -82,8 +82,8 @@
       },
       "helper": {
         "url": "https://raw.githubusercontent.com/Akyriel-Eli/S23UltraPayload/main/artifacts/dm3q-S918BXXSAFZG1/libcve43499root-afzg1.so",
-        "size": 24840,
-        "sha256": "1f721d0a9a7ba80cebde5faab32fa56feee4ba12f1e282170b8bbc6af5663999"
+        "size": 29400,
+        "sha256": "992bfdd3edb72f7c5484fd8ed8a0042b0318d903abf280468b90cfd831a7012b"
       }
     },
     {
